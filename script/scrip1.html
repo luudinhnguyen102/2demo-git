@@ -5,10 +5,11 @@
     <title>Title</title>
 </head>
 <body>
+<div id="messagediv"></div>
 <button type="button" onclick="showmessage();">click here</button>
 <script>
-    function showMessage(){
-        console.log('Xin chào!');
+    function showmessage() {
+        document.getElementById('messagediv').innerHTML='xinchao!';
     }
 </script>
 </body>
