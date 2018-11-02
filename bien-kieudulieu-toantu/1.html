@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button type="button" onclick="demo();">try it</button>
+<script>
+    function demo() {
+        var a = parseInt(prompt("nhap diem vat ly: "));
+        var b = parseInt(prompt("nhap diem hoa hoc: "));
+        var c = parseInt(prompt("nhap diem sinh hoc: "));
+        var tong = a + b + c;
+        var trungbinh = tong / 3;
+
+        {
+            document.write(" tong = " + tong);
+            document.write("<br/>");
+            document.write("trungbinh = " + trungbinh);
+        }
+    }
+</script>
+
+</body>
+</html>
