@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="576d457b-2ce2-4e1a-9ef6-53eda70776e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-chuyendoitiente.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuyen-doi/chuyen-doi-tien-te.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,38 +19,38 @@
     <session id="-1005518975">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.4" value="4" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.4" value="8" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="19" />
+          <entry key="html" value="25" />
           <entry key="js" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="19" />
+          <entry key="HTML" value="25" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="2583" />
+          <entry key="html" value="5439" />
           <entry key="js" value="26" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="2583" />
+          <entry key="HTML" value="5439" />
           <entry key="JavaScript" value="26" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
@@ -66,19 +67,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example.html">
+        <entry file="file://$PROJECT_DIR$/chuyen-doi/currency converter.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-chuyendoitiente.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chuyen-doi/chuyen-doi-tien-te.html">
+        <entry file="file://$PROJECT_DIR$/ung dung may tinh /ung-dung-may-tinh.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="22" column="125" lean-forward="true" selection-start-line="22" selection-start-column="125" selection-end-line="22" selection-end-column="125" />
+            <state relative-caret-position="244">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -112,7 +118,11 @@
         <option value="$PROJECT_DIR$/example.html" />
         <option value="$PROJECT_DIR$/node.js" />
         <option value="$PROJECT_DIR$/nodejs.html" />
+        <option value="$PROJECT_DIR$/ung-dung-may-tinh.html" />
+        <option value="$PROJECT_DIR$/demo-chuyendoitiente.html" />
         <option value="$PROJECT_DIR$/chuyen-doi/chuyen-doi-tien-te.html" />
+        <option value="$PROJECT_DIR$/chuyendoi2.html" />
+        <option value="$PROJECT_DIR$/ung dung may tinh /ung-dung-may-tinh.html" />
       </list>
     </option>
   </component>
@@ -122,10 +132,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="567" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="24" />
     <option name="y" value="23" />
-    <option name="width" value="856" />
+    <option name="width" value="1399" />
     <option name="height" value="813" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -157,6 +167,11 @@
               <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
               <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
               <item name="chuyen-doi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
+              <item name="ung dung may tinh " type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,7 +227,12 @@
       <workItem from="1541177719446" duration="1279000" />
       <workItem from="1541218596845" duration="873000" />
       <workItem from="1541300291000" duration="721000" />
-      <workItem from="1541345184902" duration="597000" />
+      <workItem from="1541345184902" duration="1142000" />
+      <workItem from="1541409280796" duration="2105000" />
+      <workItem from="1541416642514" duration="2385000" />
+      <workItem from="1541423073708" duration="5637000" />
+      <workItem from="1541432159693" duration="2643000" />
+      <workItem from="1541468611018" duration="5028000" />
     </task>
     <task id="LOCAL-00001" summary="them file script">
       <created>1541043824401</created>
@@ -225,13 +245,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12835000" />
+    <option name="totallyTimeSpent" value="31178000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="24" y="23" width="1399" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07361111" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0757684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -243,7 +263,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.28554642" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32614556" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -279,6 +299,10 @@
     <entry file="file://$PROJECT_DIR$/bien-toan-tu/2.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/nodejs.html" />
+    <entry file="file://$PROJECT_DIR$/node.js" />
+    <entry file="file://$PROJECT_DIR$/chuyen-doi-tien-te.html" />
+    <entry file="file://$PROJECT_DIR$/example.html" />
     <entry file="file://$PROJECT_DIR$/bien-kieudulieu-toantu/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -286,29 +310,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nodejs.html" />
-    <entry file="file://$PROJECT_DIR$/node.js" />
-    <entry file="file://$PROJECT_DIR$/new.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chuyen-doi-tien-te.html">
+    <entry file="file://$PROJECT_DIR$/chuyendoi2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="225">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example.html">
+    <entry file="file://$PROJECT_DIR$/ung-dung-may-tinh.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="465">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chuyen-doi/chuyen-doi-tien-te.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="22" column="125" lean-forward="true" selection-start-line="22" selection-start-column="125" selection-end-line="22" selection-end-column="125" />
+        <state relative-caret-position="585">
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chuyen-doi/currency converter.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-chuyendoitiente.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ung dung may tinh /ung-dung-may-tinh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
         </state>
       </provider>
     </entry>

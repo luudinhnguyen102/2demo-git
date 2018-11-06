@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td>calculator</td>
+    </tr>
+    <tr>
+        <td>
+            <input type="number1">
+        </td>
+        <td>
+            <input type="number2">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <button type="button" onclick="addition();">addition</button>
+        </td>
+        <td>
+            <button type="subtraction" onclick="subtraction();">subtraction</button>
+        </td>
+        <td>
+            <button type="multiplication" onclick="multiplication();">multiplication</button>
+        </td>
+        <td>
+           <div id="display"> <button type="division" onclick="division();">division</button></div>
+        </td>
+    </tr>
+</table>
+<script>
+    var a = parseInt(prompt("nhap number1"));
+    var b = parseInt(prompt("nhap number2"));
+    var ad = a + b;
+    var sub = a - b;
+    var mul = a * b;
+    var div = a / b;
+
+    function addition() {
+        document.write("ad = " + ad); //trinh duyet
+
+    }
+    function subtraction() {
+        console.log("sub = " + sub); // element console
+
+    }
+    function multiplication () {
+        alert("mul = " + mul); //bang commant
+
+    }
+    function division() {
+        document.getElementById("display").innerHTML= " div = " +div ; //trinh duyet
+
+    }
+
+
+</script>
+</body>
+</html>
