@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+
+<form action="/action_page.php">
+    <input type="text" id="display" size="18">
+    <br>
+    <div class="window">
+        <table border="1">
+            <tr>
+                <td>
+                    <button type="button" id="1" onclick="number('1');">1</button>
+                </td>
+                <td>
+                    <button type="button" id="2" onclick="number('2');">2</button>
+                </td>
+                <td>
+                    <button type="button" id="3" onclick="number('3');">3</button>
+                </td>
+                <td>
+                    <button type="button" id="+" onclick="operator('+');">+</button>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <button type="button" id="4" onclick="number('4');">4</button>
+                </td>
+                <td>
+                    <button type="button" id="5" onclick="number('5'');">5</button>
+                </td>
+                <td>
+                    <button type="button" id="6" onclick="number('6');">6</button>
+                </td>
+                <td>
+                    <button type="button" id="-" onclick="operator('-');">-</button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="button" id="7" onclick="number('7')">7</button>
+                </td>
+                <td>
+                    <button type="button" id="8" onclick="number('8')">8</button>
+                </td>
+                <td>
+                    <button type="button" id="9" onclick="number('9');">9</button>
+                </td>
+                <td>
+                    <button type="button" id="*" onclick="operator('*')">*</button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="button" id="c" onclick="remove('C');">C</button>
+                </td>
+                <td>
+                    <button type="button" id="0" onclick="number('0')">0</button>
+                </td>
+                <td>
+                    <button type="button" id="=" onclick="bang('=')">=</button>
+                </td>
+                <td>
+                    <button type="button" id="/" onclick="operator('/')">/</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+</form>
+
+<script>
+        function number(num){
+            document.getElementById("display").value = document.getElementById("display").value + num;
+        }
+function operator(oper){
+            document.getElementById("display").value = document.getElementById("display").value + oper;
+}
+function remove (re){
+            var remove = document.getElementById("display").value
+    document.getElementById("display").value= remove.substring(0,remove.length-1);
+}
+        function bang () {
+            var bieuthuc = document.getElementById("display").value;
+          if (!bieuthuc){
+              document.getElementById("display").value = " ";
+          }else
+              document.getElementById("display").value = eval(bieuthuc);
+        }
+</script>
+</body>
+</html>
