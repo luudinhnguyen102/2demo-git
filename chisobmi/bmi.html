@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bmi</title>
+</head>
+<body>
+<script>
+    var weight = parseInt(prompt("nhap weight:"));
+    var hight = parseInt(prompt("nhap hight:"));
+    bmi = weight / hight;
+    if (bmi < 18) {
+        console.log('underweight');
+    } else if (bmi < 25) {
+        console.log('nomal');
+    } else if (bmi < 30) {
+        console.log('overweight');
+    } else {
+        console.log('obese')
+    }
+</script>
+</body>
+</html>
