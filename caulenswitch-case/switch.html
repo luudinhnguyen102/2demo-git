@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="/action_page.php">
+    <input name="tinh so ngay" type="nhap gia tri" >
+    <button type="button" onclick="month();">tinh so ngay</button>
+</form>
+<script>
+    function month() {
+        var month = parseInt(prompt('nhap month: '));
+        switch (month) {
+            case(2):
+                console.log('thang 2 co 28 hoac 29 ngay');
+                break;
+            case(1):
+                console.log('thang 1 co 31 ngay');
+                break;
+            case(3):
+            case(4):
+            case(5):
+            case(6):
+            case(7):
+            case(8):
+            case(9):
+            case(10):
+            case(11):
+            case(12):
+                console.log('thang co 30 ngay');
+        }
+    }
+</script>
+</body>
+</html>
