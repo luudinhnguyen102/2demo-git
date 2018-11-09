@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="576d457b-2ce2-4e1a-9ef6-53eda70776e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/luyen tap voi toan tu /for" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/luyen-tap-vonglap/for2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tao-thaotac-array/thuc-hanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -31,7 +29,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="73" />
+          <entry key="html" value="74" />
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="txt" value="1" />
@@ -39,7 +37,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="73" />
+          <entry key="HTML" value="74" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -47,14 +45,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="19521" />
+          <entry key="html" value="19668" />
           <entry key="js" value="26" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="19521" />
+          <entry key="HTML" value="19668" />
           <entry key="JavaScript" value="26" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
@@ -92,11 +90,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tao-thaotac-array/thuc-hanh.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="26" column="63" lean-forward="true" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+            <state relative-caret-position="360">
+              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reverse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -202,6 +209,7 @@
         <option value="$PROJECT_DIR$/luyen-tap-vonglap/for.html" />
         <option value="$PROJECT_DIR$/luyen-tap-vonglap/for2.html" />
         <option value="$PROJECT_DIR$/tao-thaotac-array/thuc-hanh.html" />
+        <option value="$PROJECT_DIR$/reverse.html" />
       </list>
     </option>
   </component>
@@ -409,7 +417,7 @@
       <workItem from="1541753342991" duration="56000" />
       <workItem from="1541754739307" duration="2987000" />
       <workItem from="1541761925708" duration="543000" />
-      <workItem from="1541762574138" duration="2336000" />
+      <workItem from="1541762574138" duration="3868000" />
     </task>
     <task id="LOCAL-00001" summary="them file script">
       <created>1541043824401</created>
@@ -422,7 +430,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73242000" />
+    <option name="totallyTimeSpent" value="74774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1399" height="813" extended-state="0" />
@@ -477,7 +485,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="them file script" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bien-kieudulieu-toantu.html" />
     <entry file="file://$PROJECT_DIR$/nodejs.html" />
     <entry file="file://$PROJECT_DIR$/node.js" />
     <entry file="file://$PROJECT_DIR$/chuyendoi2.html" />
@@ -681,8 +688,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tao-thaotac-array/thuc-hanh.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="26" column="63" lean-forward="true" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+        <state relative-caret-position="360">
+          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
