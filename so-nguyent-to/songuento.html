@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function kiemTraNT(x) {
+        if (x == 2) return "nT";
+        if (x == 1 || x % 2 == 0) return "kNT";
+        for (let i = 3; i < x; i += 2) {
+            if (x % i == 0) {
+                return "kNT";
+            }
+        }
+        return "nT";
+    }
+
+    var ketqua = "";
+    var count = 0;
+    for (let i = 1; count < 20; i++) {
+        if (kiemTraNT(i) == "nT") {
+            ketqua = ketqua + " " + i + " la so nguyen to <br/>";
+            count++;
+        }
+    }
+    document.write(ketqua);
+</script>
+</body>
+</html>
