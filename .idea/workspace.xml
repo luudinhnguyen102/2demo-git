@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="576d457b-2ce2-4e1a-9ef6-53eda70776e1" name="Default Changelist" comment="" />
+    <list default="true" id="576d457b-2ce2-4e1a-9ef6-53eda70776e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if-else/luyen-tap-vonglap/for1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/if-else/luyen-tap-vonglap/for2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/if-else/vonglap-longnhau/long-nhau.html" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,7 +31,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="81" />
+          <entry key="html" value="82" />
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="txt" value="1" />
@@ -34,7 +39,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="81" />
+          <entry key="HTML" value="82" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -64,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/for-dowhile/do-while/dowhile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -83,11 +88,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/for-dowhile/sudung-while/hr.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/for-dowhile/sudung-while/while.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -194,30 +208,6 @@
               <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
               <item name="for-dowhile" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="for-dowhile" type="462c0819:PsiDirectoryNode" />
-              <item name="do-while" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="for-dowhile" type="462c0819:PsiDirectoryNode" />
-              <item name="so-nguyent-to" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="for-dowhile" type="462c0819:PsiDirectoryNode" />
-              <item name="su-dung-vonglap-for" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="for-dowhile" type="462c0819:PsiDirectoryNode" />
-              <item name="sudung-while" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -292,7 +282,7 @@
       <workItem from="1541761925708" duration="543000" />
       <workItem from="1541762574138" duration="5187000" />
       <workItem from="1541778076879" duration="597000" />
-      <workItem from="1541815812527" duration="701000" />
+      <workItem from="1541815812527" duration="876000" />
     </task>
     <task id="LOCAL-00001" summary="them file script">
       <created>1541043824401</created>
@@ -305,13 +295,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77391000" />
+    <option name="totallyTimeSpent" value="77566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1399" height="813" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07692308" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07692308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -323,7 +312,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3259362" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3259362" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -360,7 +349,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="them file script" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/if-else-bacThang.html" />
     <entry file="file://$PROJECT_DIR$/bien-toan-tu/1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -580,7 +568,7 @@
     <entry file="file://$PROJECT_DIR$/for-dowhile/do-while/dowhile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -597,7 +585,14 @@
     <entry file="file://$PROJECT_DIR$/for-dowhile/sudung-while/hr.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/for-dowhile/sudung-while/while.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
         </state>
       </provider>
     </entry>
