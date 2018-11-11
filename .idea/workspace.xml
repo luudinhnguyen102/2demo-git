@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="576d457b-2ce2-4e1a-9ef6-53eda70776e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if-else/luyen-tap-vonglap/for1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/if-else/luyen-tap-vonglap/for2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/if-else/vonglap-longnhau/long-nhau.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,18 +17,18 @@
     <session id="-1005518975">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="6" />
-          <entry key="project.open.time.4" value="17" />
+          <entry key="project.open.time.4" value="18" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="82" />
+          <entry key="html" value="84" />
           <entry key="jpg" value="1" />
           <entry key="js" value="1" />
           <entry key="txt" value="1" />
@@ -39,7 +36,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="82" />
+          <entry key="HTML" value="84" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -47,14 +44,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="19982" />
+          <entry key="html" value="20638" />
           <entry key="js" value="26" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="19982" />
+          <entry key="HTML" value="20638" />
           <entry key="JavaScript" value="26" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
@@ -100,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/for-dowhile/sudung-while/while.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="270">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -122,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/script2.html" />
         <option value="$PROJECT_DIR$/script4.html" />
         <option value="$PROJECT_DIR$/bien-toan-tu.html" />
         <option value="$PROJECT_DIR$/bien-toan-tu2.html" />
@@ -173,6 +169,7 @@
         <option value="$PROJECT_DIR$/timvalue-inarray/timvalue-array.html" />
         <option value="$PROJECT_DIR$/max_inarray/max-array.html" />
         <option value="$PROJECT_DIR$/for-dowhile/do-while/dowhile.html" />
+        <option value="$PROJECT_DIR$/if-else/do-you-love-me.html" />
       </list>
     </option>
   </component>
@@ -207,6 +204,11 @@
               <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
               <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
               <item name="for-dowhile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
+              <item name="if-else" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,7 +284,8 @@
       <workItem from="1541761925708" duration="543000" />
       <workItem from="1541762574138" duration="5187000" />
       <workItem from="1541778076879" duration="597000" />
-      <workItem from="1541815812527" duration="876000" />
+      <workItem from="1541815812527" duration="1254000" />
+      <workItem from="1541903234581" duration="1512000" />
     </task>
     <task id="LOCAL-00001" summary="them file script">
       <created>1541043824401</created>
@@ -295,7 +298,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77566000" />
+    <option name="totallyTimeSpent" value="79456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1399" height="813" extended-state="0" />
@@ -349,16 +352,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="them file script" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bien-toan-tu/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bien-toan-tu/2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/bien-toan-tu/3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -366,205 +359,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chuyen-doi/currency converter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chuyen-doi/currency converter.html" />
     <entry file="file://$PROJECT_DIR$/chuyen-doi-tien-te.html" />
     <entry file="file://$PROJECT_DIR$/demo-chuyendoitiente.html" />
     <entry file="file://$PROJECT_DIR$/example.html" />
     <entry file="file://$PROJECT_DIR$/leap-year.html" />
     <entry file="file://$PROJECT_DIR$/calculator.html" />
-    <entry file="file://$PROJECT_DIR$/script/1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/script/1.html" />
     <entry file="file://$PROJECT_DIR$/tinh-bang-cuu-chuong.html" />
     <entry file="file://$PROJECT_DIR$/switch-case.html" />
-    <entry file="file://$PROJECT_DIR$/bien-kieudulieu-toantu/1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bien-kieudulieu-toantu/1.html" />
     <entry file="file://$PROJECT_DIR$/ex01.html" />
     <entry file="file://$PROJECT_DIR$/login.html" />
-    <entry file="file://$PROJECT_DIR$/switch-case/3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/switch-case/1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/switch-case/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/switch-case/3.html" />
+    <entry file="file://$PROJECT_DIR$/switch-case/1.html" />
+    <entry file="file://$PROJECT_DIR$/switch-case/2.html" />
     <entry file="file://$PROJECT_DIR$/add.html" />
     <entry file="file://$PROJECT_DIR$/employee.html" />
     <entry file="file://$PROJECT_DIR$/nobita.jpg.html" />
     <entry file="file://$PROJECT_DIR$/sukienbanphim/nobita.jpg.html" />
-    <entry file="file://$PROJECT_DIR$/sukienbanphim/nobita.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sukienchuot/html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chisobmi/bmi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/caulenswitch-case/switch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/switch-case/3-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sudung-while/hr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/do-while/dowhile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sudung-while/while.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/su-dung-vonglap-for/tinh tong.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taomaytinh-dongian/taomaytin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sukienbanphim/nobita.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="16" column="6691" selection-start-line="16" selection-start-column="6691" selection-end-line="16" selection-end-column="6691" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sukienbanphim/nobita.jpg" />
+    <entry file="file://$PROJECT_DIR$/sukienchuot/html.html" />
+    <entry file="file://$PROJECT_DIR$/chisobmi/bmi.html" />
+    <entry file="file://$PROJECT_DIR$/caulenswitch-case/switch.html" />
+    <entry file="file://$PROJECT_DIR$/switch-case/3-1.html" />
+    <entry file="file://$PROJECT_DIR$/sudung-while/hr.html" />
+    <entry file="file://$PROJECT_DIR$/do-while/dowhile.html" />
+    <entry file="file://$PROJECT_DIR$/sudung-while/while.html" />
+    <entry file="file://$PROJECT_DIR$/su-dung-vonglap-for/tinh tong.html" />
+    <entry file="file://$PROJECT_DIR$/taomaytinh-dongian/taomaytin.html" />
+    <entry file="file://$PROJECT_DIR$/sukienbanphim/nobita.html" />
     <entry file="file://$PROJECT_DIR$/luyen-tap-vonglap/for.html" />
     <entry file="file://$PROJECT_DIR$/reverse.html" />
-    <entry file="file://$PROJECT_DIR$/tinh bang cuu chuong/tinh-bang-cuu-chuong.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ung dung may tinh /ung-dung-may-tinh.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vonglap-longnhau/long-nhau.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tao-thaotac-array/thuc-hanh.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reserve/reverse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/timvalue-inarray/timvalue-array.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/so-nguyent-to/songuento.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/luyen-tap-vonglap/for2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leap-year/leap-year.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/su-dung-vonglap-for/for.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/max_inarray/max-array.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tinh bang cuu chuong/tinh-bang-cuu-chuong.html" />
+    <entry file="file://$PROJECT_DIR$/ung dung may tinh /ung-dung-may-tinh.html" />
+    <entry file="file://$PROJECT_DIR$/vonglap-longnhau/long-nhau.html" />
+    <entry file="file://$PROJECT_DIR$/tao-thaotac-array/thuc-hanh.html" />
+    <entry file="file://$PROJECT_DIR$/reserve/reverse.html" />
+    <entry file="file://$PROJECT_DIR$/timvalue-inarray/timvalue-array.html" />
+    <entry file="file://$PROJECT_DIR$/so-nguyent-to/songuento.html" />
+    <entry file="file://$PROJECT_DIR$/luyen-tap-vonglap/for2.html" />
+    <entry file="file://$PROJECT_DIR$/leap-year/leap-year.html" />
+    <entry file="file://$PROJECT_DIR$/su-dung-vonglap-for/for.html" />
+    <entry file="file://$PROJECT_DIR$/max_inarray/max-array.html" />
     <entry file="file://$PROJECT_DIR$/for-dowhile/do-while/dowhile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -589,10 +426,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/if-else/do-you-love-me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="13" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/if-else/doyouloveme.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/for-dowhile/sudung-while/while.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
