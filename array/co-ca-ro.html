@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+
+
+</head>
+<body>
+    <h3>Caro Game Simple</h3>
+    <p id="carogame"/>
+    <input type="button" value="Change Value" onclick="changeValue()">
+    <script type="text/javascript">
+        var caro = [
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        ];
+        var a = document.getElementById("cargogame");
+        var data = "";
+        for (var i = 0; i < caro.length; i++) {
+            data += '<br/>';
+            for (var j = 0; j < caro[i].length; j++) {
+                data += caro[i][j] + "&nbsp;&nbsp;";
+            }
+        }
+        data += "<br/><br/><input type='button' onclick='changeVal()' value='Change Value'>";
+        a.innerHTML = data;
+
+        function changeVal() {
+            var positionX = prompt("X: ");
+            var positionY = prompt("Y: ");
+            data = "";
+            caro[positionX][positionY] = "x";
+            for (var i = 0; i < caro.length; i++) {
+                data += '<br/>';
+                for (var j = 0; j < caro[i].length; j++) {
+                    data += caro[i][j] + "&nbsp;&nbsp;";
+                }
+            }
+            data += "<br/><br/><input type='button' value='Change Value' onclick='changeVal()'>";
+            a.innerHTML = "<hr/>" + data;
+        }
+    </script>
+</body>
+</html>

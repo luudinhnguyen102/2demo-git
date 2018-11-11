@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>upper-lowwer</title>
+</head>
+<body>
+<script type="text/javascript">
+var str = 'ACXCDSXSSasxsae';
+var UPPER = 'ABCDEXS';
+var LOWER = 'abcdexs';
+var result = [];
+for(let x=0; x<str.length; x++)
+{
+    if (UPPER.includes(str[x]))
+    {
+        result.push(str[x].toLowerCase());
+    }
+    else if (LOWER.includes(str[x]))
+    {
+        result.push(str[x].toUpperCase());
+    }
+    else
+    {
+        result.push(str[x]);
+    }
+}
+console.log(result.join(''));
+</script>
+
+</body>
+</html>
