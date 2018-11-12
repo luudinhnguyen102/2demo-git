@@ -6,28 +6,45 @@
 </head>
 <body>
 <p>
-    <input type="number" value="number">
-    <input type="button" oninput="isPrime()">
+    <button type="button" onclick="ktnt()">try it!</button>
 
 </p>
 <div id="display"></div>
 <script>
-    function isPrime(x) {
-        for (var i=2;i<x;i++)
-        {
-            if(x%i==0) return false;
 
+
+    function isPrime(x) {
+
+        for (var i = 2; i < x; i++) {
+
+            if (x % i === 0) return false;
         }
         return true;
     }
 
-    for (var i=2;i<100;i++)
-    {
-        if(isPrime(i))
-        {
-            document.getElementById("display").innerHTML=isPrime(i);
+
+    function ktnt() {
+        var arr = [];
+        var count=0;
+        for (var i = 2; i < 10000; i++) {
+            if (isPrime(i)) {
+                arr[count] = i;
+                count++;
+
+            }
+
         }
+
+        var str = '';
+        for(let j = 0; j<arr.length; j++){
+            str+= arr[j]+',';
+            document.getElementById('display').innerHTML = str;
+        }
+
     }
+
+
+
 </script>
 </body>
 </html>
