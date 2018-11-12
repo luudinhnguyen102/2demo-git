@@ -7,32 +7,31 @@
 <body>
 <form action="" method="post">
     <input type="text" id="nhaptu" placeholder="nhap tu tra cuu">
-    <input type="button" oninput="tracuu();">
+    <input type="button" onclick="tracuu();">
     <div id="display"></div>
 </form>
 
 <script type="text/javascript">
-    var text= document.getElementById("nhaptu").value;
+    var text= "";
     var vn = ["Xin chào", "tạm biệt"];
     var en = ["hello", "bye"];
-    result =[];
-    result = result.push(text);
-    function tracuu() {
-        for (var i = 0; i < vn.length; i++) {
-            if (result[0] === vn[i]) {
-                for (var j = 0; j < en.length; j++) {
-                    if (vn[i] === en[i]) {
 
-                        text += document.getElementById("display").innerHTML = "word of mean" + "en[i]";
-                    }
-                    else {
-                        text += document.getElementById("display").innerHTML = "khong co tu nay trong tu dien";
-
-                    }
-                }
+    function tracuu()
+    {
+        for (var i = 0; i < vn.length; i++)
+        {
+            if (document.getElementById("nhaptu").value==vn[i])
+            {
+               text= en[i];
+                        text += document.getElementById("display").innerHTML = text;
             }
+                    else
+                        {
+                        text += document.getElementById("display").innerHTML = "khong co tu nay trong tu dien";
+                        }
         }
     }
+
 
 </script>
 </body>

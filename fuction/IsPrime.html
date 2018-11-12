@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p>
+    <input type="number" value="number">
+    <input type="button" oninput="isPrime()">
+
+</p>
+<div id="display"></div>
+<script>
+    function isPrime(x) {
+        for (var i=2;i<x;i++)
+        {
+            if(x%i==0) return false;
+
+        }
+        return true;
+    }
+
+    for (var i=2;i<100;i++)
+    {
+        if(isPrime(i))
+        {
+            document.getElementById("display").innerHTML=isPrime(i);
+        }
+    }
+</script>
+</body>
+</html>
