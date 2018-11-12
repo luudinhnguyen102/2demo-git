@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tudien</title>
+</head>
+<body>
+<form action="">
+    <input type="text" id="input">
+    <input type="button" onclick="tracuu()">
+    <div id="display"></div>
+</form>
+
+<script type="text/javascript">
+    var vn = ["xin chao", "tam biet"];
+    var en = ["hello", "bye"];
+    var text = "";
+
+
+    function tracuu() {
+        for (var i = 0; i < vn.length; i++) {
+            if (document.getElementById("input").value == vn[i]) {
+                text = en[i];
+                document.getElementById("display").innerHTML = text;
+                break;
+            }
+            else {
+                document.getElementById("display").innerHTML = "khong co tu nay trong tu dien";
+
+            }
+        }
+    }
+</script>
+</body>
+</html>

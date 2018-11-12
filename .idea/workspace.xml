@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="576d457b-2ce2-4e1a-9ef6-53eda70776e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/array/Tu-dien/tu-dien-simple.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/Tu-dien" beforeDir="false" afterPath="$PROJECT_DIR$/array/Tu-dien" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/Tu-dien/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/tudien" beforeDir="false" afterPath="$PROJECT_DIR$/array/tudien" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/array/tudien/script.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,7 +31,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="114" />
+          <entry key="html" value="116" />
           <entry key="jpg" value="1" />
           <entry key="js" value="3" />
           <entry key="txt" value="1" />
@@ -39,7 +39,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="114" />
+          <entry key="HTML" value="116" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -65,12 +65,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/if-else/taomaytinh-dongian/taomaytin.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="274">
               <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/array/tudien.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-81" />
           </provider>
         </entry>
       </file>
@@ -150,7 +157,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="24" />
     <option name="y" value="23" />
     <option name="width" value="1399" />
@@ -177,39 +184,6 @@
               <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-              <item name="Tu-dien" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="for-dowhile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="for-dowhile" type="462c0819:PsiDirectoryNode" />
-              <item name="tinh bang cuu chuong" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="fuction" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="if-else" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="if-else" type="462c0819:PsiDirectoryNode" />
-              <item name="taomaytinh-dongian" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -221,7 +195,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -294,7 +268,7 @@
       <workItem from="1541996350861" duration="569000" />
       <workItem from="1542000274295" duration="6105000" />
       <workItem from="1542022571213" duration="5000" />
-      <workItem from="1542022617175" duration="876000" />
+      <workItem from="1542022617175" duration="1249000" />
     </task>
     <task id="LOCAL-00001" summary="them file script">
       <created>1541043824401</created>
@@ -307,12 +281,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101569000" />
+    <option name="totallyTimeSpent" value="101942000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="24" y="23" width="1399" height="813" extended-state="1" />
+    <frame x="24" y="23" width="1399" height="813" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07692308" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07692308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -324,7 +298,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3259362" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3259362" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -361,8 +335,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="them file script" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/luyen-tap-vonglap/for.html" />
-    <entry file="file://$PROJECT_DIR$/reverse.html" />
     <entry file="file://$PROJECT_DIR$/tinh bang cuu chuong/tinh-bang-cuu-chuong.html" />
     <entry file="file://$PROJECT_DIR$/ung dung may tinh /ung-dung-may-tinh.html" />
     <entry file="file://$PROJECT_DIR$/vonglap-longnhau/long-nhau.html" />
@@ -563,11 +535,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/array/tudien/tudien.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/if-else/taomaytinh-dongian/taomaytin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/tudien.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81" />
       </provider>
     </entry>
   </component>
