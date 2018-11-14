@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="s"></p>
+<p id="v"></p>
+<canvas id="mycanvas" width="800" height="500" style="border:1px solid olivedrab"></canvas>
+<script>
+    function Rectangle(width, length) {
+        this.width = width;
+        this.length = length;
+        this.callArea = function () {
+            let area = this.width * this.length;
+            return area;
+        }
+        this.callPerimeter = function () {
+            let perimeter = (this.width + this.length) * 2;
+            return perimeter;
+        }
+
+        this.canvas = function () {
+            let c = document.getElementById("mycanvas");
+            let ctx = c.getContext("2d");
+            ctx.fillStyle = "#85ddff";
+            ctx.fillRect(100, 100, this.width, this.length);
+        }
+    }
+
+    let myRectangle = new Rectangle(300, 200);
+    document.getElementById("s").innerHTML = myRectangle.callArea();
+    document.getElementById("v").innerHTML = myRectangle.callPerimeter();
+    myRectangle.canvas();
+
+
+</script>
+</body>
+</html>

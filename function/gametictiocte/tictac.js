@@ -18,6 +18,7 @@ function CreateMap() {
     }
 }
 
+/*
 let Player = function (value, color) {
     this.value = value;
     this.color = color
@@ -112,4 +113,4 @@ function endGame(count, value) {
         alert(value + " !, you won");
         window.location.reload();
     }
-}
+}//

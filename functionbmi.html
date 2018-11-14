@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function person(weight, height) {
+        this.weight = weight;
+        this.height = height;
+        this.calLBMI = function () {
+
+            var bmi = this.weight / (this.height*this.height);
+
+            if (bmi < 18) return 'underWeight';
+            if (bmi < 25) return 'nomal';
+
+
+            if (bmi < 30) return 'overWeight';
+            return 'obese';
+        }
+    }
+    var myPerson = new person(60, 1.65);
+    console.log(myPerson.calLBMI());
+</script>
+</body>
+</html>
