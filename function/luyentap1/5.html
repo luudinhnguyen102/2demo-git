@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body onload="searchStar(input)">
+<script type="text/javascript">
+
+    let first_arr = ["Polaris", "Aldebaran", "Deneb", "Vega", "Altair", "Dubhe", "Regulus"];
+    let second_arr = ["Ursa Minor", "Tarurus", "Cygnus", "Lyra", "Aquila", "Ursa", "Major", "Leo"];
+    let input = prompt('nhap Star:');
+
+    function searchStar(string) {
+        for (let i = 0; i < first_arr.length; i++) {
+            if (string === first_arr[i]) {
+                return alert(`${string} nam trong ${second_arr[i]}`);
+            }
+        }
+        return alert("khong tim thay star");
+    }
+</script>
+</body>
+</html>
