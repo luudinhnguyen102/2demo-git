@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let Circle = function(radius, color) {
+        this.radius = radius;
+        this.color = color;
+
+        this.Circle = function() {
+            this.radius = 6;
+            this.color = 'blue';
+        }
+        this.getRadius = function() {
+            return 2*this.radius*Math.PI;
+        }
+        this.getArea = function() {
+            return this.radius*this.radius*Math.PI;
+        }
+    }
+
+    let myCircle = new Circle();
+    myCircle.Circle();
+    console.log(myCircle.getRadius().toFixed(2)); // lam tron 2 chu so sao dau phay
+    console.log(myCircle.getArea().toFixed(2));
+
+    let xCircle = new Circle(6,'purple');
+    console.log(xCircle.getRadius().toFixed(3)); // lam trong 3 chu so sau dau phay
+    console.log(xCircle.getArea().toFixed(3));
+</script>
+</body>
+</html>
