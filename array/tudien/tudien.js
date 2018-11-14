@@ -1,21 +1,33 @@
-var vn = ["xin chao", "tam biet"];
-var en = ["hello", "bye"];
-var text = "";
-
-
-function tracuu()
-{
-    for (var i = 0; i < vn.length; i++)
-    {
-        if (document.getElementById("input").value == vn[i])
-        {
-            text = en[i];
-            document.getElementById("display").innerHTML = text;
+function check(a, b) {
+    console.log("a");
+    switch(b) {
+        case 'english':
+            for (let i = 0; i < eng.length; i++) {
+                if (a == eng[i]) return vn[i];
+            }
             break;
-        }
-        else
-        {
-            document.getElementById("display").innerHTML = "khong co tu nay trong tu dien";
-        }
+        case 'vietnamese':
+            for (let i = 0; i < vn.length; i++) {
+                if (a == vn[i]) return eng[i];
+            }
+            break;
     }
+    return 'no word in dictionary';
 }
+
+const vn = ["xin chao", "tam biet", 'su kien', "hien thi", "chuc ngu ngon", "tinh yeu", "tien", "don gian", "tu dien"];
+const eng = ["hello", "bye", 'even' , "display", "goodnight", "love", "money", "simple","dictionary"];
+
+const input = document.getElementById('word');
+const select = document.getElementById('select');
+const display = document.getElementById('display');
+
+input.addEventListener('input', () => {
+    let result = check(input.value, select.value);
+    display.innerText = result;
+});
+
+select.addEventListener('change', () => {
+    let result = checkWord(input.value, select.value);
+    display.innerText = result;
+});

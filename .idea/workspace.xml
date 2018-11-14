@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="576d457b-2ce2-4e1a-9ef6-53eda70776e1" name="Default Changelist" comment="them file script">
-      <change afterPath="$PROJECT_DIR$/array/tudien/tudien.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bien-toan-tu/chuyen-doi/currency.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/conver nhietdo/converter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/gam buzze/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/gam buzze/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/gam buzze/java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/tictac-to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/tictac.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bien-toan-tu/chuyen-doi/currency converter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fuction/IsPrime.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fuction/convertNhietDo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fuction/minArray.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fuction/tao_vagoiFunction.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,43 +23,47 @@
     <session id="-1005518975">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="52" />
+          <entry key="project.closed" value="54" />
           <entry key="project.open.time.0" value="15" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="6" />
           <entry key="project.open.time.4" value="24" />
-          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.5" value="6" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="53" />
+          <entry key="project.opened" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="126" />
+          <entry key="css" value="2" />
+          <entry key="html" value="131" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="9" />
+          <entry key="js" value="11" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="126" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="131" />
           <entry key="Image" value="1" />
-          <entry key="JavaScript" value="9" />
+          <entry key="JavaScript" value="11" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="27236" />
-          <entry key="js" value="877" />
+          <entry key="css" value="11" />
+          <entry key="html" value="27440" />
+          <entry key="js" value="2009" />
           <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="27236" />
-          <entry key="JavaScript" value="877" />
+          <entry key="CSS" value="11" />
+          <entry key="HTML" value="27440" />
+          <entry key="JavaScript" value="2009" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -72,28 +74,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/if-else/taomaytinh-dongian/taomaytin.html">
+        <entry file="file://$PROJECT_DIR$/array/tudien/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
+            <state relative-caret-position="135">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/conver nhietdo/indext.html">
+        <entry file="file://$PROJECT_DIR$/array/co-ca-ro.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="227">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/tictac-to.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/function/css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/array/tudien/index.html">
+        <entry file="file://$PROJECT_DIR$/function/tictac.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="660">
+              <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#b#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/gam buzze/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/gam buzze/java.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/gam buzze/css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -101,33 +151,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/array/tudien/tudien.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="450">
+              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/converter/indext.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/conver nhietdo/converter.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="84" selection-start-line="2" selection-start-column="84" selection-end-line="2" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/function/converter/converter.js">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -146,6 +173,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -155,14 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/switch-case/3-1.html" />
-        <option value="$PROJECT_DIR$/sukienchuot/html.html" />
-        <option value="$PROJECT_DIR$/chisobmi/bmi.html" />
-        <option value="$PROJECT_DIR$/caulenswitch-case/switch.html" />
-        <option value="$PROJECT_DIR$/taomaytinh-dongian/taomaytin.html" />
-        <option value="$PROJECT_DIR$/su-dung-vonglap-for/tinh tong.html" />
-        <option value="$PROJECT_DIR$/sudung-while/while.html" />
-        <option value="$PROJECT_DIR$/sudung-while/hr.html" />
         <option value="$PROJECT_DIR$/do-while/dowhile.html" />
         <option value="$PROJECT_DIR$/vonglap-longnhau/long-nhau.html" />
         <option value="$PROJECT_DIR$/sukienbanphim/nobita.html" />
@@ -188,7 +208,6 @@
         <option value="$PROJECT_DIR$/array/hamcosan/3.html" />
         <option value="$PROJECT_DIR$/array/baitap/1.html" />
         <option value="$PROJECT_DIR$/for-dowhile/luyen-tap-vonglap/for2.html" />
-        <option value="$PROJECT_DIR$/array/co-ca-ro.html" />
         <option value="$PROJECT_DIR$/fuction/tao_vagoiFunction.html" />
         <option value="$PROJECT_DIR$/fuction/convertNhietDo.html" />
         <option value="$PROJECT_DIR$/fuction/isNguyenTo.html" />
@@ -204,8 +223,17 @@
         <option value="$PROJECT_DIR$/bien-toan-tu/chuyen-doi/currency.js" />
         <option value="$PROJECT_DIR$/function/conver nhietdo/indext.html" />
         <option value="$PROJECT_DIR$/function/converter/indext.html" />
-        <option value="$PROJECT_DIR$/array/tudien/tudien.js" />
+        <option value="$PROJECT_DIR$/array/co-ca-ro.html" />
+        <option value="$PROJECT_DIR$/function/tictac.html" />
+        <option value="$PROJECT_DIR$/function/tictac.js" />
+        <option value="$PROJECT_DIR$/function/css.css" />
+        <option value="$PROJECT_DIR$/function/tictac-to.html" />
+        <option value="$PROJECT_DIR$/game_buzze.html" />
+        <option value="$PROJECT_DIR$/array/gam buzze/index.html" />
+        <option value="$PROJECT_DIR$/array/gam buzze/css.css" />
+        <option value="$PROJECT_DIR$/array/gam buzze/java.js" />
         <option value="$PROJECT_DIR$/array/tudien/index.html" />
+        <option value="$PROJECT_DIR$/array/tudien/tudien.js" />
       </list>
     </option>
   </component>
@@ -229,6 +257,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,6 +279,19 @@
               <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
               <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="gam buzze" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="gam buzze" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
               <item name="tudien" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,30 +302,18 @@
             <path>
               <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
               <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-              <item name="conver nhietdo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-              <item name="converter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2demo-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2demo-git" type="462c0819:PsiDirectoryNode" />
               <item name="if-else" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -370,7 +400,8 @@
       <workItem from="1542091721278" duration="288000" />
       <workItem from="1542092035981" duration="24000" />
       <workItem from="1542092083858" duration="284000" />
-      <workItem from="1542092383917" duration="288000" />
+      <workItem from="1542092383917" duration="7081000" />
+      <workItem from="1542114057824" duration="5219000" />
     </task>
     <task id="LOCAL-00001" summary="them file script">
       <created>1541043824401</created>
@@ -383,13 +414,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116249000" />
+    <option name="totallyTimeSpent" value="128261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1399" height="813" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07692308" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13570392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -401,8 +432,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49129173" visible="true" weight="0.3259362" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5087083" side_tool="true" visible="true" weight="0.3259362" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49129173" weight="0.3259362" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5087083" side_tool="true" weight="0.3259362" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -421,34 +452,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="them file script" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/if-else/do-you-love-me.html" />
-    <entry file="file://$PROJECT_DIR$/if-else/doyouloveme.html" />
-    <entry file="file://$PROJECT_DIR$/array/bai-tap.html" />
-    <entry file="file://$PROJECT_DIR$/for-dowhile/do-while/dowhile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for-dowhile/su-dung-vonglap-for/tinh tong.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for-dowhile/sudung-while/hr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for-dowhile/sudung-while/while.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/caro_game.html" />
     <entry file="file://$PROJECT_DIR$/array/ham-co-san-array.html" />
     <entry file="file://$PROJECT_DIR$/if-else/do_you_love_me.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -554,13 +557,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/array/Tu-dien/script.js" />
     <entry file="file://$PROJECT_DIR$/array/Tu-dien/tu-dien-simple.html" />
-    <entry file="file://$PROJECT_DIR$/array/co-ca-ro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fuction/tao_vagoiFunction.html" />
     <entry file="file://$PROJECT_DIR$/array/tudien/tudien.html" />
     <entry file="file://$PROJECT_DIR$/array/tudien.html" />
@@ -603,6 +599,29 @@
     <entry file="file://$PROJECT_DIR$/function/converter/converter.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/function/tictac.html" />
+    <entry file="file://$PROJECT_DIR$/game_buzze.html" />
+    <entry file="file://$PROJECT_DIR$/function/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/gam buzze/java.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/gam buzze/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bien-toan-tu/chuyen-doi/currency.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -610,17 +629,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/array/co-ca-ro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/gam buzze/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/array/tudien/tudien.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="450">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/array/tudien/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/tictac-to.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/tictac.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#b#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
