@@ -69,23 +69,25 @@
 </form>
 
 <script>
-        function number(num){
-            document.getElementById("display").value = document.getElementById("display").value + num;
-        }
-function operator(oper){
-            document.getElementById("display").value = document.getElementById("display").value + oper;
-}
-function remove (re){
-            var remove = document.getElementById("display").value
-    document.getElementById("display").value= remove.substring(0,remove.length-1);
-}
-        function bang () {
-            var bieuthuc = document.getElementById("display").value;
-          if (!bieuthuc){
-              document.getElementById("display").value = " ";
-          }else
-              document.getElementById("display").value = eval(bieuthuc);
-        }
+    function number(num) {
+        document.getElementById("display").value = document.getElementById("display").value + num;
+    }
+
+    function operator(oper) {
+        document.getElementById("display").value = document.getElementById("display").value + oper;
+    }
+
+    function remove(remove) {
+        document.getElementById("display").value = remove.substring(0, remove.length - 1);
+    }
+
+    function bang() {
+        let bieuthuc = document.getElementById("display").value;
+        if (!bieuthuc) {
+            document.getElementById("display").value = " ";
+        } else
+            document.getElementById("display").value = eval(bieuthuc);
+    }
 </script>
 </body>
 </html>
