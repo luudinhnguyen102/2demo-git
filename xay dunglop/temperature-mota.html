@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Temperature</title>
+</head>
+<body>
+<script type="text/javascript">
+    function Temperature(temp) {
+        this.setTemp = () => {
+            this.temp = temp;
+            while (temp < -273) {
+                temp = parseFloat(prompt("Nhiet do sai. Moi ban nhap lai:"));
+            }
+        }
+        this.getTemp = () => {
+            this.setTemp();
+            return this.temp;
+        }
+        this.convertCtoF = () => {
+            let c = this.getTemp();
+            return (c * 1.8 + 32).toFixed(2);
+        }
+        this.convertCtoK = () => {
+            let c = this.getTemp();
+            return (c + 273.5).toFixed(2);
+        }
+    }
+
+    let myTemperature = new Temperature(25);
+    document.write(myTemperature.convertCtoF() + "<br>");
+    document.write(myTemperature.convertCtoK());
+
+</script>
+</body>
+</html>
