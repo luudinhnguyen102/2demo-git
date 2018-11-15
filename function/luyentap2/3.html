@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Factorial</title>
+</head>
+<body>
+<script type="text/javascript">
+
+    function Factorial(number) {
+        this.number = number;
+        this.callFact = function () {
+            let result = 1;
+            if (number == 0) return result;
+            for (let i = 1; i <= number; i++) result = result * i;
+            return result;
+        }
+    }
+
+    let x = parseInt(prompt('nhap so can tinh giai thua:'));
+    let myFactorial = new Factorial(x);
+    console.log(myFactorial.callFact());
+</script>
+</body>
+</html>

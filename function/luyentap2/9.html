@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let x = prompt('nhập mảng các ký tự');
+    let arr = x.split(' ');
+    let char = prompt(' nhập ký tự cần tìm:');
+    function showArr(arr) {
+        for (let i=0; i<arr.length; i++)
+            document.write((i===arr.length-1) ? (arr[i]+'<br>') : (arr[i]+' '));
+    }
+    function findChar(arr, char) {
+        let count=0;
+        for (let i = 0; i<arr.length; i++) {
+            if (char===arr[i])
+                count++;
+        }
+        return count;
+    }
+    document.write('Mảng bạn nhập vào là: <br>');
+    showArr(arr);
+    let result = findChar(arr, char);
+    if (result)
+        document.write('Ký tự ' + char + ' xuất hiện ' + result + ' lần');
+    else
+        document.write('Not found');
+</script>
+</body>
+</html>

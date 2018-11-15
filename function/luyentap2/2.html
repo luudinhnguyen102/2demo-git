@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    function Circle(radius) {
+        this.radius = radius;
+        this.callArea = function () {
+            let area = (this.radius * this.radius) * 3.14;
+            return area;
+        }
+        this.callPerimeter = function () {
+            let perimeter = this.radius * 2 * 3.14;
+            return perimeter;
+        }
+    }
+
+    let myCircle = new Circle(5);
+    document.write(myCircle.callArea().toFixed(2) + "<br>");
+    document.write(myCircle.callPerimeter().toFixed(2));
+
+</script>
+</body>
+</html>

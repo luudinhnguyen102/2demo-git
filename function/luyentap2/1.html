@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>x2</title>
+</head>
+<body>
+<script type="text/javascript">
+    function  square(x) {
+        this.x=x;
+        this.callx=function () {
+            let squa=this.x*this.x;
+            return squa;
+        }
+    } let mySquare =new square(5)
+    document.write(mySquare.callx());
+</script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FinMin in three number</title>
+</head>
+<body>
+<script>
+    let arr = [];
+    for (let i = 0; i < 3; i++) arr[i] = parseInt(prompt("nhap i: "));
+
+    function findMin(arr) {
+        let min = arr[0];
+        for (let i = 1; i < 3; i++) {
+            if (arr[i] < min)
+                min = arr[i];
+        }
+        return min;
+    }
+
+    console.log("Min is: " + findMin(arr))
+</script>
+</body>
+</html>

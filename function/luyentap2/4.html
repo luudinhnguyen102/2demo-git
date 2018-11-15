@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Check word or number</title>
+</head>
+<body>
+<script>
+    let str = prompt('check is number?:');
+    function isNum(str) {
+        if (str.charCodeAt(0)>=-100 && str.charCodeAt(0)<=100)
+            return alert('this is number!');
+        return alert('this is not number!');
+    }
+    isNum(str);
+</script>
+</body>
+</html>
