@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="576d457b-2ce2-4e1a-9ef6-53eda70776e1" name="Default Changelist" comment="them file script">
-      <change afterPath="$PROJECT_DIR$/xay dunglop/mota-temperature.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if-else/taomaytinh-dongian/taomaytin.html" beforeDir="false" afterPath="$PROJECT_DIR$/if-else/taomaytinh-dongian/taomaytin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xay dunglop/mota-temperature.html" beforeDir="false" afterPath="$PROJECT_DIR$/xay dunglop/mota-temperature.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,7 +48,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="11" />
-          <entry key="html" value="30802" />
+          <entry key="html" value="31649" />
           <entry key="js" value="2018" />
           <entry key="txt" value="16" />
         </counts>
@@ -58,7 +56,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="11" />
-          <entry key="HTML" value="30802" />
+          <entry key="HTML" value="31649" />
           <entry key="JavaScript" value="2018" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
@@ -108,16 +106,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/xay dunglop/mota-temperature.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="405">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/if-else/taomaytinh-dongian/taomaytin.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="274">
@@ -220,8 +221,8 @@
         <option value="$PROJECT_DIR$/functionbmi.html" />
         <option value="$PROJECT_DIR$/xay dunglop/xay-dung-lop-date.html" />
         <option value="$PROJECT_DIR$/xay dunglop/Rectangle.html" />
-        <option value="$PROJECT_DIR$/xay dunglop/mota-temperature.html" />
         <option value="$PROJECT_DIR$/if-else/taomaytinh-dongian/taomaytin.html" />
+        <option value="$PROJECT_DIR$/xay dunglop/mota-temperature.html" />
       </list>
     </option>
   </component>
@@ -388,7 +389,7 @@
       <workItem from="1542194312628" duration="7276000" />
       <workItem from="1542209149653" duration="799000" />
       <workItem from="1542209997818" duration="1000" />
-      <workItem from="1542248024711" duration="359000" />
+      <workItem from="1542248024711" duration="3484000" />
     </task>
     <task id="LOCAL-00001" summary="them file script">
       <created>1541043824401</created>
@@ -401,7 +402,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144254000" />
+    <option name="totallyTimeSpent" value="147379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="23" width="1399" height="813" extended-state="0" />
@@ -637,17 +638,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xay dunglop/mota-temperature.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/if-else/taomaytinh-dongian/taomaytin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="87" column="14" lean-forward="true" selection-start-line="86" selection-start-column="59" selection-end-line="87" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xay dunglop/mota-temperature.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
