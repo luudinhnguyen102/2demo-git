@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title><checkValidatePhoneNumber</title>
+</head>
+<body>
+<script>
+    function checkValidatePhoneNumber(phoneNumber) {
+        let regx = /^\([\d]{2}\)\-\(\d+\)$/;
+        if (regx.test(phoneNumber)) {
+            console.log(`Phone Number:  hợp lệ!`);
+        } else {
+            console.log(`Phone Number: không hợp lệ!`);
+        }
+    }
+
+    let phoneNumber = "(84)-(0978489648)";
+    checkValidatePhoneNumber(phoneNumber);
+    phoneNumber = "(84)-(22ss222222)";
+    checkValidatePhoneNumber(phoneNumber);
+    phoneNumber = "(82)-(22222222)";
+    checkValidatePhoneNumber(phoneNumber);
+    phoneNumber = "(a8)-(22222222)";
+    checkValidatePhoneNumber(phoneNumber);
+</script>
+</body>
+</html>

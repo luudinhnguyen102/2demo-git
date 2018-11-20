@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>checkValidateClassName</title>
+</head>
+<body>
+<script>
+    function checkValidateClassName(className) {
+        let regx = /^[C|A|P]\d{4}[G|H|I|K|L|M]$/;
+        if (regx.test(className)) {
+            console.log(`Class Name:  hợp lệ!`);
+        } else {
+            console.log(`Class Name:  không hợp lệ!`);
+        }
+    }
+
+    let className = 'C0318G';
+    checkValidateClassName(className);
+    className = 'M0318G';
+    checkValidateClassName(className);
+    className = 'P0323A';
+    checkValidateClassName(className);
+</script>
+</body>
+</html>
