@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+}
+b{
+    left:7px;
+    position: relative;
+    font-size: 30px;
+}
+.clear{
+    clear:both;
+}
+#container{
+    width: 800px;
+    height:639px;
+    margin: 0px auto;
+}
+#container strong{
+    text-align: center;
+    font-size: 40px;
+}
+#container hr{
+    width: 65%;
+    margin: 10px 2px;
+}
+
+#container .box{
+    width: 38px;
+    height: 30px;
+    border: 1px solid black;
+    float:left;
+    cursor: pointer;
+}
+#container #map{
+    margin:0 auto;
+}
