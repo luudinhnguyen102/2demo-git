@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>adam-eva</title>
+</head>
+<body>
+<input type="button" value="Eat" id="eat">
+<div id="say"></div>
+<script>
+    function Apple(weight) {
+        this.weight = weight;
+
+        this.isEmpty = false;
+        this.decrease = function () {
+            this.weight--;
+        }
+        this.getWeight = function () {
+            return this.weight;
+        }
+    }
+
+    function Human(name, gender, weight) {
+        this.name = name;
+        this.gender = gender;
+        this.weight = weight;
+
+        this.getWeight = function () {
+
+            return this.weight;
+        }
+        this.setWeight = function () {
+            this.weight = weight;
+        }
+        this.eat = function (apple) {
+            apple.decrease();
+        }
+        this.say = function (string) {
+            document.getElementById('say').innerHTML += this.name +  " say: " + string ;
+        }
+        this.checkApple = function (apple) {
+            return apple.getWeight();
+        }
+    }
+
+    let adam = new Human('Adam', 'male', 60);
+    let eva = new Human('Eva', 'female', 50);
+    let apple = new Apple(10);
+    let isAdam = true;
+
+    document.getElementById('eat').addEventListener('click', () => {
+        if (!apple.isEmpty) {
+            if (isAdam) {
+                adam.eat(apple);
+                adam.setWeight(adam.weight);
+
+                if (!adam.checkApple(apple)) {
+                    adam.say('Hết cmn táo rồi!');
+                    apple.isEmpty = true;
+                } else {
+                    adam.say('Em ăn một miếng đi eva');
+                }
+                isAdam = false;
+            } else {
+                eva.eat(apple);
+                eva.setWeight(eva.weight);
+
+                if (!eva.checkApple(apple)) {
+                    eva.say('Hết cmn táo rồi! ');
+                    apple.isEmpty = true;
+                } else {
+                    eva.say('Anh cung ăn một miếng đi nè!');
+                }
+                isAdamNext = true;
+            }
+        }
+    })
+</script>
+</body>
+</html>
